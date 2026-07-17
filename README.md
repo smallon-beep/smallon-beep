@@ -10,7 +10,11 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left"> Hi! I’m Sara. I’m a Computer Science and AI major at the University of Maryland, I'm and deeply passionate in languages like Japanese.
+
+To me, full-stack development is the perfect balance of art and logic. I enjoy the creative process of designing user-friendly interfaces just as much as I do solving the analytical puzzles of backend architecture. Currently, I’m diving deep into how AI can transform linguistics and localization.
+
+My mission is to use my technical skills alongside my language studies to build digital bridges that connect people across the globe. If you’re interested in software engineering, AI-driven language tools, or just want to chat about tech and culture, let me know!</p>
 
 ###
 
@@ -27,13 +31,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
 ###
