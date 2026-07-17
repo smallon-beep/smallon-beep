@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hey! 👋 </h1>
+<h1 data-importer="text" align="left">Hey there! 👋 </h1>
 
 ###
 
@@ -24,6 +24,8 @@ My mission is to use my technical skills alongside my language studies to build 
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+ <img src=" https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
